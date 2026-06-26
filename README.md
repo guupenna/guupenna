@@ -1,18 +1,18 @@
 # Olá, eu sou o Gustavo 👋
 
-Estudante de Ciência da Computação na **UFES** (Universidade Federal do Espírito Santo) e desenvolvedor de software. Atualmente, foco meu aprendizado na intersecção entre o desenvolvimento backend robusto e o mundo de Inteligência Artificial e Ciência de Dados.
+Estudante de Ciência da Computação na **UFES** (Universidade Federal do Espírito Santo) e desenvolvedor de software. Atualmente, trabalho com desenvolvimento backend com Java e estou focado em estudar e me aprofundar na área de Inteligência Artificial.
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** Python, Java, SQL, JavaScript.
+* **Linguagens:** Java, Python, SQL.
 * **Backend:** Spring Boot, Jakarta EE, Hibernate, APIs REST.
 * **Dados e IA:** Pandas, NumPy, Scikit-Learn, Matplotlib.
-* **Ferramentas:** Git, Linux (Ubuntu), Docker, MySQL.
+* **Ferramentas:** Git, Linux (Ubuntu), Docker, PostgreSQL.
 * **Práticas:** Testes Unitários (JUnit, Mockito), Lógica de Programação.
 
 ### 💼 Experiência
 
-* **Desenvolvedor de Software (Projeto Marvin - UFES):** Contribuição em sistemas acadêmicos utilizando o ecossistema Java e Python, com foco em qualidade de código e testes automatizados.
+* **Desenvolvedor de Software (Projeto Marvin - UFES):** Contribuição em sistemas acadêmicos utilizando o ecossistema Java, com foco em qualidade de código e testes automatizados.
 
 ### 📬 Como falar comigo
 

@@ -6,7 +6,7 @@ Estudante de Ciência da Computação na **UFES** (Universidade Federal do Espí
 
 * **Linguagens:** Java, Python, SQL.
 * **Backend:** Spring Boot, Jakarta EE, Hibernate, APIs REST.
-* **Dados e IA:** Pandas, NumPy, Scikit-Learn, Matplotlib.
+* **IA:** Pandas, NumPy, Scikit-Learn, Matplotlib.
 * **Ferramentas:** Git, Linux (Ubuntu), Docker, PostgreSQL.
 * **Práticas:** Testes Unitários (JUnit, Mockito), Lógica de Programação.
 
